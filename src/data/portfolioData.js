@@ -71,7 +71,7 @@ export const projects = [
     title: "Portfolio Website",
     description: "My personal portfolio website built with React and Framer Motion, featuring dark/light mode, smooth animations, project filtering, and a working contact form.",
     tech: ["React", "Framer Motion", "CSS"],
-    github: "https://github.com/yourusername/portfolio",
+    github: "https://github.com/dhanushya260804/portfolio",
     live: "https://portfolio-r8t8.onrender.com",
     featured: false,
     category: "Frontend"
