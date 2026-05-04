@@ -68,16 +68,6 @@ export const projects = [
 },
   {
     id: 2,
-    title: "Student Management System",
-    description: "A CRUD application to manage student records, attendance, and grades. Built with Java Spring Boot REST API and a React dashboard with search and filter functionality.",
-    tech: ["React", "Spring Boot", "MySQL"],
-    github: "https://github.com/yourusername/project2",
-    live: null,
-    featured: true,
-    category: "Full Stack"
-  },
-  {
-    id: 3,
     title: "Portfolio Website",
     description: "My personal portfolio website built with React and Framer Motion, featuring dark/light mode, smooth animations, project filtering, and a working contact form.",
     tech: ["React", "Framer Motion", "CSS"],
@@ -86,26 +76,7 @@ export const projects = [
     featured: false,
     category: "Frontend"
   },
-  {
-    id: 4,
-    title: "Weather App",
-    description: "A weather forecast app that shows real-time temperature, humidity, and wind speed using the OpenWeatherMap API. Features city search and a clean responsive UI.",
-    tech: ["React", "OpenWeatherMap API", "CSS"],
-    github: "https://github.com/yourusername/weather-app",
-    live: null,
-    featured: false,
-    category: "Frontend"
-  },
-  {
-    id: 5,
-    title: "Library Management System",
-    description: "A Java-based web application to manage book inventory, issue/return tracking, and member management. Uses Spring Boot and MySQL.",
-    tech: ["Java", "Spring Boot", "MySQL", "Thymeleaf"],
-    github: "https://github.com/yourusername/library-app",
-    live: null,
-    featured: false,
-    category: "Backend"
-  },
+
 ];
 
 export const techCategories = ["All", "Full Stack", "Frontend", "Backend", "Databse", "Tools"];
